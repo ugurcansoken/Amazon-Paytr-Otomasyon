@@ -35,5 +35,7 @@ tags: amazonSenaryosu
 * "cereziKabulEtButonu" elementi varsa tıkla
 * "searchbox" elementine "Macbook Pro" degeri yazilir
 * Elementine tıkla "searchAraButonu"
-* Elementine tıkla "aramaSonucuListesi"
+* "aramaSonucuUrunListesi" elementinin gorulmesi beklenir
+* Elementine tıkla "aramaSonucuUrunListesi"
+* "urunDetaySayfasiKontrolu" elementinin gorulmesi beklenir
 * Urunun "urununFiyati" fiyat bilgisini "fiyatBilgisi" olarak, "urununModelAdi" model adini "modelBilgisi" olarak,"urununCPUBilgisi" CPU modelini "CPUBilgisi" olarak kaydet ve bilgiyi iceren yeni bir dosya olustur

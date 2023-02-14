@@ -10,9 +10,14 @@
     "type": "id"
   },
  {
-    "key": "aramaSonucuListesi",
+    "key": "aramaSonucuUrunListesi",
     "value": "(//*[@class='a-size-base-plus a-color-base a-text-normal'])[1]",
     "type": "xpath"
+  },
+ {
+    "key": "urunDetaySayfasiKontrolu",
+    "value": "productTitle",
+    "type": "id"
   },
  {
     "key": "urununFiyati",
