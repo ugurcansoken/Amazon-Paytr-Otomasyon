@@ -1,0 +1,40 @@
+[
+  {
+    "key": "searchbox",
+    "value": "twotabsearchtextbox",
+    "type": "id"
+  },
+ {
+    "key": "searchAraButonu",
+    "value": "nav-search-submit-button",
+    "type": "id"
+  },
+ {
+    "key": "aramaSonucuListesi",
+    "value": "(//*[@class='a-size-base-plus a-color-base a-text-normal'])[1]",
+    "type": "xpath"
+  },
+ {
+    "key": "urununFiyati",
+    "value": "[class='a-price-whole']",
+    "type": "css"
+  },
+ {
+    "key": "urununModelAdi",
+    "value": "//*[@class='a-spacing-small po-model_name'] //*[@class='a-size-base po-break-word']",
+    "type": "xpath"
+  },
+ {
+    "key": "urununCPUBilgisi",
+    "value": "//*[@class='a-spacing-small po-cpu_model.family'] //*[@class='a-size-base po-break-word']",
+    "type": "xpath"
+  },
+ {
+    "key": "cereziKabulEtButonu",
+    "value": "sp-cc-accept",
+    "type": "id"
+  }
+
+
+
+  ]

@@ -1,0 +1,66 @@
+[
+  {
+    "key": "onBasvuruTexti",
+    "value": "[class='basvuru_h4']",
+    "type": "css"
+  },{
+    "key": "onBasvuruWebSitesiTextboxi",
+    "value": "bsr_frm_website_2",
+    "type": "id"
+  },{
+    "key": "onBasvuruIsimSoyisimTextboxi",
+    "value": "executive_name_surname_2",
+    "type": "id"
+  },{
+    "key": "onBasvuruMailTextboxi",
+    "value": "(//*[@class='bas_gel_ort'])[1] //*[@name='executive_email']",
+    "type": "xpath"
+  },{
+    "key": "onBasvuruTelefonTextboxi",
+    "value": "(//*[@class='bas_gel_ort'])[2] //*[@class='number number_only']",
+    "type": "xpath"
+  }
+,{
+    "key": "onBasvuruIsletmeTuruBoxi",
+    "value": "merchant_type_2",
+    "type": "id"
+  },{
+    "key": "onBasvuruIsletmeTuruListesi",
+    "value": "[class='basvuru_formu_genel_opt bsvr_select-arrow-type'] option",
+    "type": "css"
+  },{
+    "key": "onBasvuruBasvuruyuTamamlaButonu",
+    "value": "genel_basvuru_formu_2",
+    "type": "id"
+  },{
+    "key": "onBasvuruIkinciAdimTexti",
+    "value": "body > div.basvuru_formu_alani > div > div > div > div > div > h1",
+    "type": "css"
+  },{
+    "key": "onBasvuruIkinciAdimIsletmeUnvaniTextboxi",
+    "value": "firm_title",
+    "type": "id"
+  },{
+    "key": "onBasvuruIkinciAdimVergiNumarasiTextboxi",
+    "value": "tax_no",
+    "type": "id"
+  },{
+    "key": "onBasvuruIkinciAdimVergiDairesiTextboxi",
+    "value": "tax_office",
+    "type": "id"
+  },{
+    "key": "onBasvuruIkinciAdimCiroBeklentisiTextboxi",
+    "value": "monthly_sale",
+    "type": "id"
+  },{
+    "key": "onBasvuruIkinciAdimBilgileriGonderButonu",
+    "value": "basvuru-sirket-send",
+    "type": "id"
+  },{
+    "key": "onBasvurunuzAlinmistirTexti",
+    "value": "[class='il_form_basarili_v2 border_3x response']",
+    "type": "css"
+  }
+
+
+]
