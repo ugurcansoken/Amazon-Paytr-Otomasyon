@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Amazon-Paytr-Otomasyon.iml" filepath="$PROJECT_DIR$/.idea/Amazon-Paytr-Otomasyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ugurcansoken-altyapi/gauge-test.iml" filepath="$PROJECT_DIR$/ugurcansoken-altyapi/gauge-test.iml" />
+    </modules>
+  </component>
+</project>
